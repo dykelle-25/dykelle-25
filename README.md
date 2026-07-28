@@ -8,6 +8,39 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
   </a>
 
+  <p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" height="40" style="margin-right: 15px; vertical-align: middle;">
+  </a>
+  
+  <!-- Meetup -->
+  <a href="https://meetup.com" target="_blank">
+    <img src="https://shields.io" height="40" style="margin-right: 15px; vertical-align: middle;">
+  </a>
+  
+  <!-- Credly -->
+  <a href="https://credly.com" target="_blank">
+    <img src="https://shields.io" height="40" style="margin-right: 15px; vertical-align: middle;">
+  </a>
+  
+  <!-- TryHackMe -->
+  <a href="https://tryhackme.com" target="_blank">
+    <img src="https://shields.io" height="40" style="margin-right: 15px; vertical-align: middle;">
+  </a>
+  
+  <!-- HackTheBox -->
+  <a href="https://hackthebox.com" target="_blank">
+    <img src="https://shields.io" height="40" style="margin-right: 15px; vertical-align: middle;">
+  </a>
+  
+  <!-- LeetCode -->
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://shields.io" height="40" style="vertical-align: middle;">
+  </a>
+</p>
+
+
 ### A BIT ABOUT ME
 
 Pronouns: He/Him
