@@ -10,12 +10,8 @@
 <a href="https://www.credly.com/users/dylan-keller.6a63f414">
     <img src="https://img.shields.io/badge/CREDLY-%FF6B00.svg?&style=for-the-badge"  alt="https://www.credly.com/users/dylan-keller.6a63f414"/>
   </a>
-<a href="https://www.hackthebox.com/">
-    <img src="https://img.shields.io/badge/HACKTHEBOX-%141A26.svg?&style=for-the-badge"  alt="https://www.hackthebox.com/"/>
-  </a>
-  <a href="https://www.hackthebox.com/">
-    <img src="https://img.shields.io/badge/HACKTHEBOX-%141A26.svg?&style=for-the-badge"  alt="https://www.hackthebox.com/"/>
-  </a>
+
+
 <a href="https://www.hackthebox.com/">
     <img src="https://img.shields.io/badge/HACKTHEBOX-%141A26.svg?&style=for-the-badge"  alt="https://www.hackthebox.com/"/>
   </a>
