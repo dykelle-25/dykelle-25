@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
   </a>
 <a href="https://www.hackthebox.com/">
-    <img src="https://img.shields.io/badge/linkedin-%9FEF00.svg?&style=for-the-badge&logo=HACKTHEBOX&logoColor=9FEF00"  alt="https://www.hackthebox.com/"/>
+    <img src="https://img.shields.io/badge/HACKTHEBOX-%141A26.svg?&style=for-the-badge&logo=HACKTHEBOX&logoColor=9FEF00"  alt="https://www.hackthebox.com/"/>
   </a>
   
 
