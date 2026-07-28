@@ -17,9 +17,9 @@ An aspiring technology professional currently focused on researching secure, rel
 ### CURRENTLY STUDYING
 - Machine Learning for Business Analytics (Python 2E) (ISBN-13: 978-1394286799)
 - CompTIA Network+ Ce
-
-
-
+#
+#
+#
 ### CERTIFICATIONS 
 #### Obtained Certifications
   - CompTIA Network+ (Month/Year)
