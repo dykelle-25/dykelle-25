@@ -15,12 +15,12 @@ An aspiring technology professional currently focused on researching secure, rel
 - CompTIA Network+ Ce
 
 ### CERTIFICATIONS 
-Obtained Certifications
+#### Obtained Certifications
   - CompTIA Network+ (Month/Year)
   - CompTIA Network+ (Month/Year)
-Currently Studying:
+#### Currently Studying:
   - Cisco Certified Network Associate
-Aspirations
+#### Aspirations
   - CompTIA Cloud+
   - CompTIA Linux+
   - CompTIa SecurityX
