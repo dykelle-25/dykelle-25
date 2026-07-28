@@ -14,13 +14,13 @@ An aspiring technology professional currently focused on researching secure, rel
 - Machine Learning for Business Analytics (Python 2E) (ISBN-13: 978-1394286799)
 - CompTIA Network+ Ce
 
-- ### CERTIFICATIONS 
-- Obtained Certifications
+### CERTIFICATIONS 
+Obtained Certifications
   - CompTIA Network+ (Month/Year)
   - CompTIA Network+ (Month/Year)
-- Currently Studying:
+Currently Studying:
   - Cisco Certified Network Associate
-- Aspirations
+Aspirations
   - CompTIA Cloud+
   - CompTIA Linux+
   - CompTIa SecurityX
