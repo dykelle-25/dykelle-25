@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/HACKTHEBOX-%141A26.svg?&style=for-the-badge&logo=HACKTHEBOX&logoColor=141A26"  alt="https://www.hackthebox.com/"/>
   </a>
 <a href="https://tryhackme.com/p/dykellermain">
-    <img src="https://img.shields.io/badge/TRYHACKME-%141A26.svg?&style=for-the-badge&logo=TRYHACKME&logoColor=white"  alt="https://tryhackme.com/p/dykellermain"/>
+    <img src="https://img.shields.io/badge/TRYHACKME-%23CC2929.svg?&style=for-the-badge&logo=TRYHACKME&logoColor=white"  alt="https://tryhackme.com/p/dykellermain"/>
   </a>  
 
 ### A BIT ABOUT ME
