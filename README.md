@@ -1,8 +1,15 @@
-## Why Hello there, I'm Dylan Keller 👋
+## Why hello there, I'm Dylan Keller 👋
 ________________________________________
+WHO AM I
+An aspiring tech professional currently focused on researching secure, reliable infrastructure and automating systems.
 
-<!--
-**dykelle-25/dykelle-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+INTERESTED IN
+- Networking and System Admin/Engineering (Routing, Switching, Architecture)
+- Cybersecurity (Secure Architecture, Threat Mitigation, Network Defense)
+- Programming and Automation (Python, Scripting, Workflows)
+- AI / Machine Learning (AI Integration, ML Analytics, Applied ML)
+
+
 
 Here are some ideas to get you started:
 
