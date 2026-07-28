@@ -1,10 +1,5 @@
 # Why hello there, I'm Dylan Keller 👋
-[**Connect with me on LinkedIn**](https://linkedin.com/in/dykelle32245638)
-https://leetcode.com/u/dykelle_24/
-https://www.credly.com/users/dylan-keller.6a63f414
-https://www.meetup.com/members/481607501/
 
-# shield
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge)](https://linkedin.com/in/dykelle32245638)   [![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge)](https://www.credly.com/users/dylan-keller.6a63f414)   [![leetcode](https://img.shields.io/badge/LeetCode-FF9000.svg?style=for-the-badge)](https://leetcode.com/u/dykelle_24/)   [![Meetup](https://img.shields.io/badge/Meetup-E0393E.svg?style=for-the-badge)](https://www.meetup.com/members/481607501/)
 
  
