@@ -1,5 +1,5 @@
 # Why hello there, I'm Dylan Keller 👋
-**[Connect with me on LinkedIn](https://linkedin.com/in/dykelle32245638)
+[**Connect with me on LinkedIn**](https://linkedin.com/in/dykelle32245638)
  
 ### A BIT ABOUT ME
 
