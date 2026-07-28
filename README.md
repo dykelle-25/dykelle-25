@@ -6,6 +6,21 @@ https://www.meetup.com/members/481607501/
 
 # shield
 [![playstation](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge)](https://linkedin.com/in/dykelle32245638)
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" height="40" style="margin-right: 15px;">
+  </a>
+  <a href="https://meetup.com" target="_blank">
+    <img src="https://shields.io" height="40" style="margin-right: 15px;">
+  </a>
+  <a href="https://credly.com" target="_blank">
+    <img src="https://shields.io" height="40" style="margin-right: 15px;">
+  </a>
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://shields.io" height="40">
+  </a>
+</p>
  
 ### A BIT ABOUT ME
 
