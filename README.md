@@ -4,11 +4,8 @@ https://leetcode.com/u/dykelle_24/
 https://www.credly.com/users/dylan-keller.6a63f414
 https://www.meetup.com/members/481607501/
 
-### 🌐 Find me on
-
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/dykelle32245638) [![Meetup](https://shields.io)](https://meetup.com) [![Credly](https://shields.io)](https://credly.com) [![LeetCode](https://shields.io)](https://leetcode.com)
-
-
+# shield
+[![playstation](https://img.shields.io/badge/playstation-network-003791.svg?style=for-the-badge&logo=playstation)](https://www.playstation.com/)
  
 ### A BIT ABOUT ME
 
