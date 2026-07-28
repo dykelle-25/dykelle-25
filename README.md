@@ -1,4 +1,4 @@
-## Why hello there, I'm Dylan Keller 👋
+# Why hello there, I'm Dylan Keller 👋
 
 ### A BIT ABOUT ME
 
