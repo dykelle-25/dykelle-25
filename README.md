@@ -5,7 +5,7 @@ https://www.credly.com/users/dylan-keller.6a63f414
 https://www.meetup.com/members/481607501/
 
 # shield
-[![playstation](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge)](https://linkedin.com/in/dykelle32245638)[![playstation](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge)](https://linkedin.com/in/dykelle32245638)
+[![playstation](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge)](https://linkedin.com/in/dykelle32245638)  [![playstation](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge)](https://linkedin.com/in/dykelle32245638)
 
  
 ### A BIT ABOUT ME
