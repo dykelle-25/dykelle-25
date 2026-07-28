@@ -5,7 +5,7 @@ https://www.credly.com/users/dylan-keller.6a63f414
 https://www.meetup.com/members/481607501/
 
 # shield
-[![playstation](https://img.shields.io/badge/playstation-003791.svg?style=for-the-badge&logo=playstation)](https://www.meetup.com/members/481607501/)
+[![playstation](https://img.shields.io/badge/LinkedIn-003791.svg?style=for-the-badge&logo=playstation)](https://linkedin.com/in/dykelle32245638)
  
 ### A BIT ABOUT ME
 
