@@ -1,10 +1,10 @@
 ## Why hello there, I'm Dylan Keller 👋
 ________________________________________
 
-WHO AM I
+### WHO AM I
 An aspiring tech professional currently focused on researching secure, reliable infrastructure and automating systems.
 
-INTERESTED IN
+### INTERESTED IN
 - Networking and System Admin/Engineering (Routing, Switching, Architecture)
 - Cybersecurity (Secure Architecture, Threat Mitigation, Network Defense)
 - Programming and Automation (Python, Scripting, Workflows)
