@@ -2,7 +2,7 @@
 ________________________________________
 
 ### WHO AM I
-An aspiring tech professional currently focused on researching secure, reliable infrastructure and automating systems.
+An aspiring technology professional currently focused on researching secure, reliable infrastructure and automating systems.
 
 ### INTERESTED IN
 - Networking and System Admin/Engineering (Routing, Switching, Architecture)
@@ -10,6 +10,21 @@ An aspiring tech professional currently focused on researching secure, reliable 
 - Programming and Automation (Python, Scripting, Workflows)
 - AI / Machine Learning (AI Integration, ML Analytics, Applied ML)
 
+### CURRENTLY STUDYING
+- Machine Learning for Business Analytics (Python 2E) (ISBN-13: 978-1394286799)
+- CompTIA Network+ Ce
+
+- ### CERTIFICATIONS 
+- Obtained Certifications
+  - CompTIA Network+ (Month/Year)
+  - CompTIA Network+ (Month/Year)
+- Currently Studying:
+  - Cisco Certified Network Associate
+- Aspirations
+  - CompTIA Cloud+
+  - CompTIA Linux+
+  - CompTIa SecurityX
+  
 
 
 Here are some ideas to get you started:
