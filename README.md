@@ -4,15 +4,21 @@ ________________________________________
 ### WHO AM I
 An aspiring technology professional currently focused on researching secure, reliable infrastructure and automating systems.
 
+
+
 ### INTERESTED IN
 - Networking and System Admin/Engineering (Routing, Switching, Architecture)
 - Cybersecurity (Secure Architecture, Threat Mitigation, Network Defense)
 - Programming and Automation (Python, Scripting, Workflows)
 - AI / Machine Learning (AI Integration, ML Analytics, Applied ML)
 
+
+
 ### CURRENTLY STUDYING
 - Machine Learning for Business Analytics (Python 2E) (ISBN-13: 978-1394286799)
 - CompTIA Network+ Ce
+
+
 
 ### CERTIFICATIONS 
 #### Obtained Certifications
