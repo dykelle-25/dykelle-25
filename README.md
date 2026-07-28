@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/HACKTHEBOX-%141A26.svg?&style=for-the-badge"  alt="https://www.hackthebox.com/"/>
   </a>
 <a href="https://tryhackme.com/p/dykellermain">
-    <img src="https://img.shields.io/badge/TRYHACKME-%23CC2929.svg?&style=for-the-badge"  alt="https://tryhackme.com/p/dykellermain"/>
+    <img src="https://img.shields.io/badge/TRYHACKME-%23A32B2B.svg?&style=for-the-badge"  alt="https://tryhackme.com/p/dykellermain"/>
   </a>  
 <a href="https://www.meetup.com/members/481607501/">
     <img src="https://img.shields.io/badge/MEETUP-%23E0393E.svg?&style=for-the-badge"  alt="https://www.meetup.com/members/481607501/"/>
