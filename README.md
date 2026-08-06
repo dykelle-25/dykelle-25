@@ -47,6 +47,7 @@ I am an aspiring technology and business professional currently focused on resea
   - CompTIA Network+ (Month/Year)
 #### Currently Working On:
   - Cisco Certified Network Associate
+  (More specifically, I'm applying what I learned during Net+ and Sec+ so I can start the CCNA on solid ground so to speak, so excited!)
 #### Aspirations
   - CompTIA Cloud+
   - CompTIA Linux+
