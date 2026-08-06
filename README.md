@@ -1,7 +1,5 @@
 # Why hello there, I'm Dylan Keller 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge)](https://linkedin.com/in/dykelle32245638)   [![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge)](https://www.credly.com/users/dylan-keller.6a63f414)   [![leetcode](https://img.shields.io/badge/LeetCode-FF9000.svg?style=for-the-badge)](https://leetcode.com/u/dykelle_24/)   [![Meetup](https://img.shields.io/badge/Meetup-E0393E.svg?style=for-the-badge)](https://www.meetup.com/members/481607501/)   [![TryHackMe](https://img.shields.io/badge/TryHackMe-A32B2B.svg?style=for-the-badge)](https://tryhackme.com/p/dykellermain)   [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00.svg?style=for-the-badge)](https://www.hackthebox.com/)
-
 How to create an intro github repo for GNS3 labbing so I can show people how I learned?
 
 <a href="https://www.linkedin.com/in/daltonlima/">
