@@ -33,18 +33,19 @@ I am an aspiring technology and business professional currently focused on resea
 ### INTERESTED IN
 - Networking and System Admin/Engineering (Routing, Switching, Architecture)
 - Cybersecurity (Secure Architecture, Threat Mitigation, Network Defense)
-- Programming and Automation (Python, Scripting, Workflows)
+- Programming and Automation (Python, Scripting, Workflows, Penetration Testing)
 - AI / Machine Learning (AI Integration, ML Analytics, Applied ML)
 #
 ### CURRENTLY LEARNING AND STUDYING
 - Machine Learning for Business Analytics (Python 2E) (ISBN-13: 978-1394286799)
-- CompTIA Network+ Ce
+- CompTIA Network+
+- CompTIA Security+
 #
 ### CERTIFICATIONS AND ASPIRATIONS 
 #### Obtained Certifications
   - CompTIA Network+ (Month/Year)
   - CompTIA Network+ (Month/Year)
-#### Currently WORKING ON:
+#### Currently Working On:
   - Cisco Certified Network Associate
 #### Aspirations
   - CompTIA Cloud+
