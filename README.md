@@ -1,9 +1,10 @@
 # Why hello there, I'm Dylan Keller 👋
 
 
+
 <p align="center">
-<a href="(https://www.linkedin.com/in/dykelle32245638/?isSelfProfile=true)">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="(https://www.linkedin.com/in/dykelle32245638/?isSelfProfile=true)"/>
+<a href="https://www.linkedin.com/in/dykelle32245638/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/dykelle32245638"/>
   </a>
 <a href="https://www.credly.com/users/dylan-keller.6a63f414">
     <img src="https://img.shields.io/badge/CREDLY-%23FF6B00.svg?&style=for-the-badge"  alt="https://www.credly.com/users/dylan-keller.6a63f414"/>
