@@ -24,7 +24,7 @@
 
 Pronouns: He/Him
 
-I am an aspiring technology and business professional currently focused on researching secure, reliable infrastructure and automating systems.
+I am an aspiring technology and business professional currently focused on researching secure, robust, reliable network infrastructure and automated systems.
 
 #
 ### INTERESTED IN
@@ -37,14 +37,14 @@ I am an aspiring technology and business professional currently focused on resea
 - Machine Learning for Business Analytics (Python 2E) (ISBN-13: 978-1394286799)
 - CompTIA Network+
 - CompTIA Security+
+- Cisco CCNA (Current(Pres) and Future(2027) version)
+  (More specifically, I'm applying what I learned during Net+ and Sec+ so I can start the CCNA on solid ground so to speak, so excited!)
 #
 ### CERTIFICATIONS AND ASPIRATIONS 
 #### Obtained Certifications
-  - CompTIA Network+ (Month/Year)
-  - CompTIA Network+ (Month/Year)
-#### Currently Working On:
-  - Cisco Certified Network Associate
-  (More specifically, I'm applying what I learned during Net+ and Sec+ so I can start the CCNA on solid ground so to speak, so excited!)
+  - CompTIA Network+ (Issued 06/2026))
+  - CompTIA Security+ (Issued 07/2026)
+
 #### Aspirations
   - CompTIA Cloud+
   - CompTIA Linux+
