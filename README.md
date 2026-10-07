@@ -46,6 +46,7 @@ I am an aspiring technology and business professional currently focused on resea
   - CompTIA Security+ (Issued 07/2026)
 
 #### Aspirations
+  - Hands-on Enterprise Networking Experience.
   - CompTIA Cloud+
   - CompTIA Linux+
   - CompTIa SecurityX
