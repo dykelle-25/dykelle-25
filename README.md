@@ -48,6 +48,7 @@ I am an aspiring technology and business professional currently focused on resea
 
 #### Aspirations
   - Hands-on Enterprise Networking Experience.
+  - Complete the courses for TryHackMe and HackTheBox
   - CompTIA Cloud+
   - CompTIA Linux+
   - CompTIa SecurityX
