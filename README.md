@@ -53,4 +53,3 @@ I am an aspiring technology and business professional currently focused on resea
   - CompTIA Linux+
   - CompTIa SecurityX
  # 
-# PROJECTS
